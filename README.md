@@ -17,3 +17,4 @@ To use this template, fork it and then create a new codespace from it. To do so:
 - you can now access your codespace by either:
   - working in the browser, in the tab that just opened
   - opening VS Code on your computer and connecting to the codespace from there, by clicking on the botton left corner button, selecting "Connect to a codespace", and selecting the codespace that was just created.
+- You can also connect to the server via ssh using the Github CLI with this command: `gh cs ssh` (you might need to login, the command will output the instructions).
