@@ -1,4 +1,0 @@
-{
-    "name": "Stainless Docker Image",
-    "image": "samuelchassot/stainless_sam:ubuntu23.10"
-}

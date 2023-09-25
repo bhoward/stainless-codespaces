@@ -11,7 +11,6 @@ To use this template, fork it and then create a new codespace from it. To do so:
 - select this repository in the "Repository" dropdown
 - select the configuration you want to use from the "Dev container configuration" dropdown
   - the "Stainless Dockerfile" configuration will use the provided Dockerfile to build the container, installing the latest version of Stainless in the process. This might take some time
-  - the "Stainless Docker Image" configuration will use the provided Docker image, which already contains Stainless. This is faster, but you cannot update the Dockerfile to customise the image.
 - select the machine type you need in the "Machine type" dropdown
 - click on "Create codespace"
 - wait for the codespace to be created
