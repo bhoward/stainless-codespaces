@@ -18,3 +18,8 @@ To use this template, fork it and then create a new codespace from it. To do so:
   - working in the browser, in the tab that just opened
   - opening VS Code on your computer and connecting to the codespace from there, by clicking on the botton left corner button, selecting "Connect to a codespace", and selecting the codespace that was just created.
 - You can also connect to the server via ssh using the Github CLI with this command: `gh cs ssh` (you might need to login, the command will output the instructions).
+
+## Running Stainless
+
+- to run stainless, open a terminal and run `stainless-dotty --help` for Scala 3 or `stainless-scalac --help` for Scala 2
+- to verify the sample project, navigate to `./src` and run `stainless-dotty Example.scala`
