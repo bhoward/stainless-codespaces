@@ -21,5 +21,5 @@ To use this template, fork it and then create a new codespace from it. To do so:
 
 ## Running Stainless
 
-- to run stainless, open a terminal and run `stainless-dotty --help` for Scala 3 or `stainless-scalac --help` for Scala 2
+- to run stainless, open a terminal and run `stainless-dotty --help`.
 - to verify the sample project, navigate to `./src` and run `stainless-dotty Example.scala`
